@@ -23,9 +23,9 @@ wandb
 output
 serve_images
 results
-data
 checkpoints
 ckpts*
-
+data/
 .ipynb_checkpoints
 *.ipynb
+annotation_dataset/output/
